@@ -7,9 +7,9 @@ main:
   - title: "Portfolio"
     url: /portfolio/
   - title: "Resume"
-    url: /assets/docs/resume.pdf
+   # url: /assets/docs/resume.pdf
   - title: "Lattes"
-    url:
+    url: http://lattes.cnpq.br/8931047228585695
   # - title: "Blog"
   #   url: /blog/
 
