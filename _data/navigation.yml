@@ -8,6 +8,8 @@ main:
     url: /portfolio/
   - title: "Resume"
     url: /assets/docs/resume.pdf
+  - title: "Lattes"
+    url:
   # - title: "Blog"
   #   url: /blog/
 
@@ -27,15 +29,15 @@ portfolio:
   - title: "Professional"
     children:
       - title: "DeskAI"
-        url: /portfolio/deskai
+     #    url: /portfolio/deskai
       - title: "Smart Climate Index"
-        url: /portfolio/sclm
+   #      url: /portfolio/sclm
 
   - title: "Research"
     children:
       - title: "Dynamic Anomaly Detection"
-        url: /portfolio/networks/
+    #     url: /portfolio/networks/
       - title: "Statistics of Entanglement"
-        url: /portfolio/qm_stats/
+     #    url: /portfolio/qm_stats/
       - title: "Magnetic Waves and Noise"
-        url: /portfolio/waves/
+    #     url: /portfolio/waves/
