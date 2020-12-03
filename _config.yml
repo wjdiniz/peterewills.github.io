@@ -29,7 +29,7 @@ minimal_mistakes_skin: "dirt"
   
 # settings for author profile
 author:
-  name   : "XXX"
+  name   : "wjd"
   avatar : #"/assets/images/headshot.jpg"
   bio    : #"I enjoy writing about things I'm interested in - mostly computing, math, physics, and software engineering."
   location: "San Francisco, CA"
@@ -40,14 +40,14 @@ author:
 
 # # comments by disqus
 comments:
-  provider: "disqus"
+  provider: #"disqus"
   disqus:
-    shortname: "pwills-com"
+    shortname: #"pwills-com"
 
 analytics:
-  provider: "google"
+  provider: #"google"
   google:
-    tracking_id: "UA-116208936-1"
+    tracking_id: #"UA-116208936-1"
 
 
 # pagination for blog page
