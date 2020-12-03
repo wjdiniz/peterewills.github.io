@@ -15,7 +15,7 @@ main:
 
 # sidebar for portfolio
 portfolio:
-  - title: "Projects"
+  - title: "Research"
     children:
 #      - title: "Machine Learning on AWS"
 #        url: /portfolio/coming/
@@ -26,18 +26,9 @@ portfolio:
       - title: "Automatic Genre Classification"
         url: /portfolio/genre_cls/
 
-  - title: "Professional"
+  - title: "Teaching"
     children:
       - title: "DeskAI"
      #    url: /portfolio/deskai
       - title: "Smart Climate Index"
    #      url: /portfolio/sclm
-
-  - title: "Research"
-    children:
-      - title: "Dynamic Anomaly Detection"
-    #     url: /portfolio/networks/
-      - title: "Statistics of Entanglement"
-     #    url: /portfolio/qm_stats/
-      - title: "Magnetic Waves and Noise"
-    #     url: /portfolio/waves/
